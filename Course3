@@ -8,4 +8,6 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Subhajit Pal
+Divide and conquer Algorithms
+It is a entire unique paradigm of Algorithmic domain where a major set of problems are divided into non-overlapping subproblems and then solved individually finally to be merged as the main solution.
